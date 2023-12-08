@@ -1,0 +1,3 @@
+﻿  client.c
+C:\Users\Eduard\source\repos\Practice2_NEW_client\client.c(59,47): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+  Practice2_NEW_client.vcxproj -> C:\Users\Eduard\source\repos\Practice2_NEW_client\x64\Debug\Practice2_NEW_client.exe

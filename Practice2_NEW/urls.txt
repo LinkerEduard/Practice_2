@@ -1,0 +1,6 @@
+^urls
+~C5lLHZ~https://www.wikipedia.org/
+~9FHG48~https://www.youtube.com/watch?v=CgCJwDjm_Cw
+^short_urls
+~https://www.youtube.com/watch?v=CgCJwDjm_Cw~9FHG48
+~https://www.wikipedia.org/~C5lLHZ
